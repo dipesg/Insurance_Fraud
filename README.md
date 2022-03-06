@@ -78,7 +78,7 @@ pip install -r requirements.txt
 ```
    
 ## Run
-> **Step 1: Clone the repository.
+> **Step 1: Clone the repository.**
 ```bash
 git clone https://github.com/dipesg/Insurance_Fraud.git
 ```
