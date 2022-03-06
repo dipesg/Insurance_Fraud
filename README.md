@@ -10,7 +10,6 @@
   * [Deployment on Heroku](#deployment-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
-  * [Licence](#license)
   * [Credits](#credits)
 
 
@@ -121,12 +120,25 @@ python-3.7.12
 - **For pushing it on heroku follow [[Reference](https://devcenter.heroku.com/articles/config-vars)]**
 
 
+## Directory Tree
+![dir1](https://user-images.githubusercontent.com/75604769/156911395-9aacd999-9977-4e35-96a4-bd8781a64df8.png)
+
+
+![dir2](https://user-images.githubusercontent.com/75604769/156911406-01bebc1d-de7e-4c96-91cf-2f4dd4fcedf1.png)
+ 
+ 
+![dir3](https://user-images.githubusercontent.com/75604769/156911414-d365f646-f1f8-46bc-bcf3-8b4a622eaa59.png)
+
+
+![dir4](https://user-images.githubusercontent.com/75604769/156911423-2ec61fe1-368e-4dfa-9b45-d0b4c73e0085.png)
+
+
 ## Bug / Feature Request
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/dipesg/Insurance_Fraud/issues/new) by including your search query and the expected result.
 
 If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/dipesg/Insurance_Fraud/issues/new). Please include sample queries and their corresponding results.
 
-## Technology Used
+## Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" width=200>](https://learn.onemonth.com/the-best-way-to-learn-sql/) 
